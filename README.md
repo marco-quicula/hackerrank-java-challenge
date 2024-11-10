@@ -8,7 +8,7 @@ This repository contains solutions to various Java challenges from HackerRank. E
 
 ## GitHub Actions Workflow Status
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/marco-quicula/hackerrank-java-challenge-problem-solving/build.yml)
+[![SonarCloud](https://github.com/marco-quicula/hackerrank-java-challenge-problem-solving/actions/workflows/build.yml/badge.svg)](https://github.com/marco-quicula/hackerrank-java-challenge-problem-solving/actions/workflows/build.yml)
 
 ## SonarCloud Analysis
 
